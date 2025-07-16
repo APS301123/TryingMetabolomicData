@@ -1,6 +1,6 @@
 # TryingMetabolomicData
 
-This is a project created to experiment with Metabolomic data, dimension reduction, and ML models. 
+This is a project created to experiment with Metabolomic data, dimension reduction, and ML models. Includes custom functions made to reduce lines of code(not all lines use this yet)
 
 ---
 
@@ -16,7 +16,13 @@ This is a project created to experiment with Metabolomic data, dimension reducti
 
 5. Apply both original dataset and dimensionally reduction dataset to Random Forest Classifier
    
-6. Apply both original dataset and dimensionally reduction dataset to Random Forest Classifier
+6. Apply both original dataset and dimensionally reduction dataset to LGBM
+   
+7. AUC-ROC curve visualization to validate models
+
+8. Feature importance analysis
+   
+10. SHAP visualizations
 
 ---
 # Dataset 
